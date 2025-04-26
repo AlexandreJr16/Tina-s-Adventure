@@ -18,7 +18,7 @@ O projeto consiste em um jogo de plataforma 2D onde o jogador controla um person
 1. Clonagem do Repositório:
 2. Copiar código
 ```bash
-git clone https://github.com/seu-usuario/jogo-plataforma-2d.git
+git clone https://github.com/AlexandreJr16/Tina-s-Adventure.git
 ````
 3. Abra o Projeto no Unity:
 4. Abra o Unity Hub.
